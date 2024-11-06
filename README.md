@@ -1,6 +1,6 @@
 ### Hi there, I'm Javier Castellanos
 
-- 🔭 I’m currently working on getting my Master's of Data Science (Specialization in Machine Learning) from Rice University.
+- 🔭 I’m working on getting my Master's of Data Science (Specialization in Business Analytics) from Rice University.
 - 🌱 I’m currently learning Python and SQL for data science.
 - 🤝 I’m looking to collaborate on Python and SQL projects.
 - 🤔 I’m looking for internship and employment opportunities.
